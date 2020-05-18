@@ -1,8 +1,9 @@
 voila
 voila-material
-plotly
-matplotlib
 pandas
-numpy
+ipywidgets
 seaborn
+plotly
 folium
+matplotlib
+numpy
